@@ -29,7 +29,7 @@ The system uses **AI Question Answering + Translation Pipeline** to generate acc
 - PyPDF2 (PDF text extraction)
 - langdetect (language identification)
 - deep-translator (translation)
-- Groq API — LLaMA 3.3 / LLaMA 3.1 Instant Models (FREE)
+- Groq API — LLaMA 3.3 / LLaMA 3.1 Instant Models 
 
 ### **Frontend**
 - HTML5
@@ -41,7 +41,7 @@ The system uses **AI Question Answering + Translation Pipeline** to generate acc
 ## Prerequisites
 
 - Python **3.8 or higher**
-- A **Groq API Key** (free)
+- A **Groq API Key**
 - pip installed on your system
 
 ---
